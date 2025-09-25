@@ -2,11 +2,11 @@ import mysql.connector
 
 # Database connection configuration
 db_config = {
-    "host": "mysql-33d76eb2-alustudent-26bb.f.aivencloud.com",
-    "port": 18954,
-    "user": "avnadmin",
-    "password": "AVNS_E0SckWhzsauAXJ9wY5T",
-    "database": "defaultdb"
+    "host": #Insert your info in these respective fields
+    "port": 
+    "user": 
+    "password": 
+    "database": 
 }
 
 try:
